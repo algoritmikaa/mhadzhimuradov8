@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(90, 241, 234);
+    padding: 6px
+}
+
+header a {
+    background-color: white;
+    border-radius: 8px;
+    padding: 4px;
+    text-decoration: none;
+}
+
+main h1 {
+    text-align: center;
+    color: orange;
+} 
+
+footer {
+   background-color: pink;
+   padding: 3px;
+}
+
+footer p {
+    background-color: white;
+}
+
+.reak  {
+    background-color: rgb(95, 116, 69);
+    padding: 10px;
+}
+
+h2 {
+    color: green;
+}
